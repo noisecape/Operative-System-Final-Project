@@ -1,0 +1,3 @@
+https://codeitaway.wordpress.com/2012/09/22/c-program-of-priority-queue-using-linked-list/
+http://disi.unitn.it/~abeni/IEP1/compilation_unit.html
+A riguardo delle "Operazioni liste ordinate"
